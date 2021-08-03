@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0](https://www.github.com/hschne/rails-mini-profiler/compare/v0.1.3...v0.2.0) (2021-08-03)
+
+
+### Features
+
+* improve code documentation, fixes [#11](https://www.github.com/hschne/rails-mini-profiler/issues/11) ([#24](https://www.github.com/hschne/rails-mini-profiler/issues/24)) ([dc25181](https://www.github.com/hschne/rails-mini-profiler/commit/dc25181b82caad4e181ba9bf8f02f1a749ee86b5))
+
+
+### Bug Fixes
+
+* add back external assets, fixes [#17](https://www.github.com/hschne/rails-mini-profiler/issues/17) ([6b218d7](https://www.github.com/hschne/rails-mini-profiler/commit/6b218d70f3f521f4fdfeb353a49fe89b09d16abe))
+
 ### [0.1.3](https://www.github.com/hschne/rails-mini-profiler/compare/v0.1.2...v0.1.3) (2021-08-02)
 
 
